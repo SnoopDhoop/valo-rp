@@ -1,6 +1,4 @@
-Discord rich presence extension for VALORANT
-
-[*Jump to updating*](https://github.com/colinhartigan/valorant-rich-presence/blob/main/README.md#updating)
+# valo-rp
 
 ![](https://media.discordapp.net/attachments/357677064507228171/815690033842880552/unknown.png)
 ![](https://media.discordapp.net/attachments/357677064507228171/815690322591613008/unknown.png)
