@@ -1,0 +1,9 @@
+__pycache__/
+assets/
+.vscode/
+build/
+dist/
+.env
+config.json
+valorant-rpc.spec 
+installer/ 
